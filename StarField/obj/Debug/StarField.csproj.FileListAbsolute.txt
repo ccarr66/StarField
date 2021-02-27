@@ -1,0 +1,9 @@
+C:\Users\conno\source\repos\StarField\StarField\bin\Debug\StarField.exe.config
+C:\Users\conno\source\repos\StarField\StarField\bin\Debug\StarField.exe
+C:\Users\conno\source\repos\StarField\StarField\bin\Debug\StarField.pdb
+C:\Users\conno\source\repos\StarField\StarField\obj\Debug\StarField.csprojAssemblyReference.cache
+C:\Users\conno\source\repos\StarField\StarField\obj\Debug\StarField.Properties.Resources.resources
+C:\Users\conno\source\repos\StarField\StarField\obj\Debug\StarField.csproj.GenerateResource.cache
+C:\Users\conno\source\repos\StarField\StarField\obj\Debug\StarField.exe
+C:\Users\conno\source\repos\StarField\StarField\obj\Debug\StarField.pdb
+C:\Users\conno\source\repos\StarField\StarField\obj\Debug\StarField.StarField.resources
